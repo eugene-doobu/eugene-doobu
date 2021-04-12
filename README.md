@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac
-ssundong0_0](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+ssundong0_0](http://mazassumnida.wtf/api/generate_badge?boj={ssundong0_0})](https://solved.ac/{ssundong0_0})
