@@ -28,6 +28,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=reactivex&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/gitgub-181717?style=flat-square&logo=gitgub&logoColor=white"/></a>&nbsp 
+</p>
+
+<h3 align="center">🌱 Studying~~ 🌱</h3>
+<br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r-sharp&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r-sharp&logoColor=white"/></a>&nbsp 
 </p>
 
 <br><br>
