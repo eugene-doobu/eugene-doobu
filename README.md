@@ -32,11 +32,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=Oculus&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Cardboard-FF7143?style=flat-square&logo=google-cardboard&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/gitgub-181717?style=flat-square&logo=gitgub&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">🌱 Studying~~ 🌱</h3>
 <br><br>
+<h3 align="center">🌱 Studying~~ 🌱</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp 
