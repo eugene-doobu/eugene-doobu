@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 <h3 align="center"> 📫 How to reach me 📫 </h3>
 <p align="center">
   <a href="https://doobudubu.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://doobudubu.tistory.com/"/></a>&nbsp
+  <a href="https://www.instagram.com/kiddoobuboy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kiddoobuboy/"/></a>&nbsp
 </p>
+<br><br>
 
 
 [![Solved.ac
