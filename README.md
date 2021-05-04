@@ -63,8 +63,8 @@ ssundong0_0](http://mazassumnida.wtf/api/generate_badge?boj=ssundong0_0)](https:
 <br><br>
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/eugene-doobu/eugene-doobu">
-  <img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-doobu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=90,2b5876,4e4376&layout=compact" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-doobu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=90,2b5876,4e4376&layout=compact" />
 </a>
 <a href="https://github.com/eugene-doobu/eugene-doobu">
-  <img align="center" height="210" src="https://github-readme-stats.vercel.app/api?username=eugene-doobu&show_icons=true&line_height=26&count_private=true&bg_color=90,2b5876,4e4376&title_color=fff&text_color=fff&icon_color=4ca1af"/>
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=eugene-doobu&show_icons=true&line_height=26&count_private=true&bg_color=90,2b5876,4e4376&title_color=fff&text_color=fff&icon_color=4ca1af"/>
 </a>
