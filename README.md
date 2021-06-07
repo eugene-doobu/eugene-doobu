@@ -36,14 +36,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
 </p>
-  
-    
-
 
 <h3 align="center"> 📫 How to reach me 📫 </h3>
 <p align="center">
   <a href="https://doobudubu.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://doobudubu.tistory.com/"/></a>&nbsp
-  <a href="https://www.instagram.com/lilloobuboy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lilldoobuboy/"/></a>&nbsp
+  <a href="https://www.instagram.com/lilldoobuboy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lilldoobuboy/"/></a>&nbsp
   <a href="https://www.youtube.com/channel/UCsvrVhm_WRjNVOtoRrk0-hA/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCsvrVhm_WRjNVOtoRrk0-hA/"/></a>&nbsp
 </p>  
   
