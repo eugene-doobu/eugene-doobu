@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">⚡Client & Front-End Developer⚡</h1><br>
+<h1 align="center">⚡Client Developer⚡</h1><br>
 <h2 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <br>
@@ -57,3 +57,6 @@ ___
 <a href="https://github.com/eugene-doobu/eugene-doobu">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=eugene-doobu&show_icons=true&line_height=26&count_private=true&bg_color=90,2b5876,4e4376&title_color=fff&text_color=fff&icon_color=4ca1af"/>
 </a>
+<br><br>
+
+![rand](https://rand-xyz.now.sh/api/hello)
