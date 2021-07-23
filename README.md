@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">⚡Client Developer⚡</h1><br>
+<h1 align="center">⚡TA & Client Developer⚡</h1><br>
 <h2 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <br>
