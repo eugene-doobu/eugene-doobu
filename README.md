@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ___
 <h2>&#x1F6A9; Achieve</h2>
 
-[![Solved.ac ssundong0_0](http://mazassumnida.wtf/api/generate_badge?boj=ssundong0_0)](https://solved.ac/ssundong0_0)
+[![Solved.ac ssundong0_0](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssundong0_0)](https://solved.ac/ssundong0_0)
 
 <h2>&#x1f4c8; GitHub Stats</h2>
 <a href="https://github.com/eugene-doobu/eugene-doobu">
