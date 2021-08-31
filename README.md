@@ -28,6 +28,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=reactivex&logoColor=white"/></a>&nbsp 
   <br>
+  Azure cognitive, Kakao API
+  <br>
 </p>
 
 <h3 align="center">🌱 Studying 🌱</h3>
