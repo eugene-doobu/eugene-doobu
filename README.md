@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">⚡TA & Client Developer⚡</h1><br>
 <h2 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
@@ -47,11 +48,13 @@ Here are some ideas to get you started:
 
 ___
 <h2>&#x1F6A9; Achieve</h2>
-2014 인천전자마이스터고 MDP 과제발표회 - 3등 수상<br>
+2014 인천전자마이스터고 MDP 과제발표회 - <a href="https://doobudubu.tistory.com/169?category=958833">3등 수상</a><br>
 2021 방송통신대학교 총장배 소프트웨어 경진대회 - 동상 수상<br>
 <br>
 
 [![Solved.ac ssundong0_0](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssundong0_0)](https://solved.ac/ssundong0_0)
+
+학사: <a href="./knou.md">방송통신대학교</a>
 
 <h2>&#x1f4c8; GitHub Stats</h2>
 <a href="https://github.com/eugene-doobu/eugene-doobu">
