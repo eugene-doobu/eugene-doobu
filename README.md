@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 
 ___
 <h2>&#x1F6A9; Achieve</h2>
+2014 인천전자마이스터고 MDP 과제발표회 - 3등 수상<br>
 2021 방송통신대학교 총장배 소프트웨어 경진대회 - 동상 수상<br>
 <br>
 
