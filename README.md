@@ -50,6 +50,7 @@ ___
 <h2>&#x1F6A9; Achieve</h2>
 2014 인천전자마이스터고 MDP 과제발표회 - <a href="https://doobudubu.tistory.com/169?category=958833">3등 수상</a><br>
 2021 방송통신대학교 총장배 소프트웨어 경진대회 - 동상 수상<br>
+2021 에듀테크쇼 초등교유전 - 에듀테크 애플리케이션상 수상(ARgong2, DNSOFT)
 <br>
 
 [![Solved.ac ssundong0_0](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssundong0_0)](https://solved.ac/ssundong0_0)
