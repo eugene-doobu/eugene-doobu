@@ -29,13 +29,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=reactivex&logoColor=white"/></a>&nbsp 
   <br>
-  Azure cognitive, Kakao API
+  Azure
   <br>
 </p>
 
 <h3 align="center">🌱 Studying 🌱</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
+  <br>
+  Kakao API
+  <br>
 </p>
 
 <h3 align="center"> 📫 How to reach me 📫 </h3>
@@ -50,7 +53,7 @@ ___
 <h2>&#x1F6A9; Achieve</h2>
 2014 인천전자마이스터고 MDP 과제발표회 - <a href="https://doobudubu.tistory.com/169?category=958833">3등 수상</a><br>
 2021 방송통신대학교 총장배 소프트웨어 경진대회 - 동상 수상<br>
-2021 에듀테크쇼 초등교전 - 에듀테크 애플리케이션상 수상(ARgong2, DNSOFT)<br>
+2021 에듀테크쇼 초등교육전 - 에듀테크 애플리케이션상 수상(ARgong2, DNSOFT)<br>
 <br>
 
 [![Solved.ac ssundong0_0](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssundong0_0)](https://solved.ac/ssundong0_0)
