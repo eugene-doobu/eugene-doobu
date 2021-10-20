@@ -47,6 +47,14 @@ ___
 [![Solved.ac ssundong0_0](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssundong0_0)](https://solved.ac/ssundong0_0)
 
 학사: <a href="./knou.md">방송통신대학교</a>
+<br><br>
+
+<h2>&#x1F3E3; Private Projects</h2>
+Eland - 얼굴인식 옷추천 미디어월 - 메인 개발<br>
+Eland - 3Screen 옷추천 인터렉티브 미디어월 - 메인 개발<br>
+Korail - VR&PC 열차교육 프로그램 제작 - 메인 개발<br>
+2020 인천전자마이스터고 게인미 VR 및 게임콘텐츠 제작 동아리 강사<br>
+<br>
 
 <h2>&#x1f4c8; GitHub Stats</h2>
 <a href="https://github.com/eugene-doobu/eugene-doobu">
