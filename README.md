@@ -46,7 +46,7 @@ ___
 
 [![Solved.ac ssundong0_0](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssundong0_0)](https://solved.ac/ssundong0_0)
 
-학사: <a href="./knou.md">방송통신대학교</a>  4.5/4.5
+학사: <a href="./knou.md">방송통신대학교</a> Computer Science: 4.5/4.5
 <br><br>
 
 <h2>&#x1F3E3; Private Projects</h2>
