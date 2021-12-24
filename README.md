@@ -1,11 +1,9 @@
--GIF Area Width 100%-
 <h1 align="center">⚡TA & Client Developer⚡</h1><br>
 -portfolio site link btn-
 <a href="https://eugene-doobu.github.io/">temp portfolio link</a>
 -Youtube btn-
 <h2 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
-  <br>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
@@ -13,20 +11,15 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=reactivex&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Azure Cloud-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>&nbsp 
   <br>
-  Azure
   <br>
 </p>
 
-<h3 align="center">🌱 Studying 🌱</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
-  <br>
-  Kakao API
-  <br>
-</p>
+<h3 align="center">🌱 <a href="./TechStack.md">Click to see more</a> 🌱</h3>
+<br>
 
 <h3 align="center"> 📫 How to reach me 📫 </h3>
 <p align="center">
