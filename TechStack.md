@@ -7,6 +7,7 @@
 - Post Processing, Vfx, Shader 작업을 하며 유튜브에 결과물을 업로드하고 있음
 - Android, iOS 동시 업로드 가능한 프로젝트 관리
 - AssetBudle과 Azure Blob을 이용한 모바일 게임의 패치 서비스 설계
+- Reactive 프로그래밍과 MVP 패턴의 UI 설계
 
 ### C#
 
