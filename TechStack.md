@@ -25,6 +25,11 @@
 - VM을 제작하고 Python Flask로 제작한 Deepspeech STT 웹서버 구동
 - 다양한 Cognitive Service(Face, STT, Translation) 사용 경험
 
+### 기타 클라우드 서비스
+
+- GCP: Dialogflow, Translation
+- AWS : Polly
+
 ### Python, JavaScript
 
 - 유니티 개발을 보조하는 용도로 간단한 프로그램을 제작하는데 사용
