@@ -24,6 +24,7 @@
 - Azure Blob을 이용한 리소스 관리
 - VM을 제작하고 Python Flask로 제작한 Deepspeech STT 웹서버 구동
 - 다양한 Cognitive Service(Face, STT, Translation) 사용 경험
+- Azure Functions(Faas)를 이용한 메일 자동 전송 서비스 구현
 
 ### 기타 클라우드 서비스
 
