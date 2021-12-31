@@ -1,5 +1,3 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=eugene-doobu&fontAlign=70&fontAlignY=40&color=gradient)
-  
 <h1 align="center">⚡TA & Client Developer⚡</h1>
 
 <h3 align="center"><a href="https://eugene-doobu.github.io/">My Portfolio</a></h3>
