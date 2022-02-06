@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Unreal-000000?style=flat-square&logo=Unreal Engine&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Unreal-000000?style=flat-square&logo=UnrealEngine&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Azure Cloud-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Azure Cloud-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/></a>&nbsp 
   <br>
   <br>
 </p>
