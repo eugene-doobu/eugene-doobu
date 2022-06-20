@@ -37,7 +37,7 @@ ___
 [![Solved.ac ssundong0_0](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssundong0_0)](https://solved.ac/ssundong0_0)
 
 고졸: 인천전자마이스터고 전자제어과<br>
-학사: <a href="./knou.md">방송통신대학교</a> 컴퓨터과학: 4.5/4.5
+학사: <a href="./knou.md">방송통신대학교</a> 컴퓨터과학: 4.38/4.5
 <br><br>
 
 <h2>&#x1F3E3; Private Projects</h2>
