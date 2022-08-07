@@ -17,9 +17,9 @@
 
 <h3 align="center">🌱interested in 🌱</h3>
 <p align="center">
-  Algorithm: KdTree, Delaunay triangulation <br>
-  Graphics: Ray Tracing, Rasterisation <br>
-  Vision: Post Processing <br>
+  <b>Algorithm</b>: KdTree, Delaunay triangulation <br>
+  <b>Graphics</b>: Ray Tracing, Rasterisation <br>
+  <b>Vision</b>: Post Processing <br>
 </p>
 <br>
 
