@@ -1,9 +1,4 @@
 <h1 align="center">⚡Client Developer⚡</h1>
-
-<h3 align="center"><a href="https://eugene-doobu.github.io/">My Portfolio</a></h3>
-<br>
-
-<h2 align="center">🛠 Tech Stack 🛠</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white"/></a>&nbsp 
@@ -16,7 +11,16 @@
   <br>
 </p>
 
-<h3 align="center">🌱 <a href="./TechStack.md">Detail Teck stack</a> 🌱</h3>
+<h3 align="center">🛠 <a href="./TechStack.md">Detail Teck stack</a> 🛠</h3>
+<br>
+
+
+<h3 align="center">🌱interested in 🌱</h3>
+<p align="center">
+  Algorithm: KdTree, Delaunay triangulation <br>
+  Graphics: Ray Tracing, Rasterisation <br>
+  Vision: Post Processing <br>
+</p>
 <br>
 
 <h3 align="center"> 📫 How to reach me 📫 </h3>
