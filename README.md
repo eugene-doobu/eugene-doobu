@@ -17,7 +17,7 @@
 
 <h3 align="center">🌱interested in 🌱</h3>
 <p align="center">
-  <b>Algorithm</b>: KdTree, Delaunay triangulation <br>
+  <b>Algorithm</b>: KdTree, Delaunay triangulation, Concave hull <br>
   <b>Graphics</b>: Ray Tracing, Rasterisation <br>
   <b>Vision</b>: Post Processing <br>
 </p>
