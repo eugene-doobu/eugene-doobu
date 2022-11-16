@@ -14,15 +14,6 @@
 <h3 align="center">🛠 <a href="./TechStack.md">Detail Teck stack</a> 🛠</h3>
 <br>
 
-
-<h3 align="center">🌱interested in 🌱</h3>
-<p align="center">
-  <b>Algorithm</b>: KdTree, Delaunay triangulation, Concave hull <br>
-  <b>Graphics</b>: Ray Tracing, Rasterisation <br>
-  <b>Vision</b>: Post Processing <br>
-</p>
-<br>
-
 <h3 align="center"> 📫 How to reach me 📫 </h3>
 <p align="center">
   <a href="https://doobudubu.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://doobudubu.tistory.com/"/></a>&nbsp
