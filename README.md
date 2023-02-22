@@ -54,6 +54,7 @@ ___
 [GameServer](./Certification//GameServerCertification.md)<br>
 [Graphics](./Certification/GraphicsCertification.md)<br>
 [GameDevEtc](./Certification//GameDevCertification.md)<br>
+[GPGPU](./Certification//GPGPU.md)<br>
 
 ## &#x1f4c8; GitHub Stats
 
