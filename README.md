@@ -53,10 +53,11 @@ ___
 
 [Unity](./Certification/UnityCertification.md)<br>
 [Unreal](./Certification/UnrealCertification.md)<br>
-[GameServer](./Certification//GameServerCertification.md)<br>
+[GameServer](./Certification/GameServerCertification.md)<br>
 [Graphics](./Certification/GraphicsCertification.md)<br>
-[GameDevEtc](./Certification//GameDevCertification.md)<br>
-[GPGPU](./Certification//GPGPU.md)<br>
+[GameDevEtc](./Certification/GameDevCertification.md)<br>
+[GPGPU](./Certification/GPGPU.md)<br>
+[ETC](./Certification/etc.md)<br>
 
 ## &#x1f4c8; GitHub Stats
 
