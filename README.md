@@ -16,7 +16,6 @@
 </p>
 
 <h3 align="center">🛠 <a href="./TechStack.md">Detail Teck stack</a> 🛠</h3>
-<br>
 
 <h3 align="center"> 📫 How to reach me 📫 </h3>
 <p align="center">
