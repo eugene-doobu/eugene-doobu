@@ -12,6 +12,7 @@
   <br>
   <img src="https://img.shields.io/badge/Azure Cloud-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-Protobuf-lightgrey"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp 
   <br>
 </p>
 
