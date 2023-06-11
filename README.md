@@ -23,8 +23,8 @@
   <a href="https://www.youtube.com/channel/UCsvrVhm_WRjNVOtoRrk0-hA/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCsvrVhm_WRjNVOtoRrk0-hA/"/></a>&nbsp
 </p>  
 
-actively working on [Ganshin-Impact](https://github.com/eugene-doobu/Ganshin-Impact)
-  
+actively working on metaverse-contest in 2023 //[Ganshin-Impact](https://github.com/eugene-doobu/Ganshin-Impact)
+  and studying computer graphics with directx-11
 ___
 
 ## &#x1F6A9; Achieve
