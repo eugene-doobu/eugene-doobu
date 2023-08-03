@@ -8,10 +8,15 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-DirectX3D11-white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Azure Cloud-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-Protobuf-lightgrey"/></a>&nbsp 
+  <br>
+</p>
+
+<h3 align="center">interested in..</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp 
   <br>
 </p>
