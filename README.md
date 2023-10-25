@@ -49,6 +49,7 @@ ___
 
 ## &#x1F3E3; etc
 2021 인천전자마이스터고 게인미 VR 및 게임콘텐츠 제작 동아리 강사 - 2학기<br>
+2023 우아한스터디 겨울시즌 - 8 Weeks Later<br>
 <br>
 
 ## Certification
