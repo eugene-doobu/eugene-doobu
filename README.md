@@ -37,7 +37,7 @@ ___
 2021 방송통신대학교 총장배 소프트웨어 경진대회 - 동상 수상<br>
 2021 에듀테크쇼 초등교육전 - 에듀테크 애플리케이션상 수상(ARgong2, DNSOFT)<br>
 2022 방송통신대학교 총장배 소프트웨어 경진대회 - 은상 수상<br>
-2022 방송통신대학교 졸업생 성적우수상<br>
+2022 방송통신대학교 컴퓨터과학과 졸업생 성적우수상<br>
 <br>
 
 [![Solved.ac ssundong0_0](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssundong0_0)](https://solved.ac/ssundong0_0)
