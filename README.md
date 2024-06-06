@@ -53,16 +53,6 @@ ___
 2023 우아한스터디 겨울시즌 - 8 Weeks Later<br>
 <br>
 
-## Certification
-
-[Unity](./Certification/UnityCertification.md)<br>
-[Unreal](./Certification/UnrealCertification.md)<br>
-[GameServer](./Certification/GameServerCertification.md)<br>
-[Graphics](./Certification/GraphicsCertification.md)<br>
-[GameDevEtc](./Certification/GameDevCertification.md)<br>
-[GPGPU](./Certification/GPGPU.md)<br>
-[ETC](./Certification/etc.md)<br>
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/eugene-doobu/eugene-doobu">
