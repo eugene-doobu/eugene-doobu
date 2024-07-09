@@ -51,6 +51,7 @@ ___
 2021 인천전자마이스터고 게인미 VR 및 게임콘텐츠 제작 동아리 강사 - 2학기<br>
 2023 모두의연구소 Experimental Game LAB<br>
 2023 우아한스터디 겨울시즌 - 8 Weeks Later<br>
+2024 인천전자마이스터고 멘토링 강사 - 개발자 취업전략<br>
 <br>
 
 ## &#x1f4c8; GitHub Stats
