@@ -67,8 +67,6 @@ ___
 
 ![boid](boid.PNG)
 
-![rand](https://rand-xyz.now.sh/api/hello)
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/eugene-doobu"
