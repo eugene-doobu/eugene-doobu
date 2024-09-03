@@ -19,8 +19,6 @@
   <br>
 </p>
 
-<h3 align="center">🛠 <a href="./TechStack.md">Detail Teck stack</a> 🛠</h3>
-
 <h3 align="center"> 📫 How to reach me 📫 </h3>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCsvrVhm_WRjNVOtoRrk0-hA/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCsvrVhm_WRjNVOtoRrk0-hA/"/></a>&nbsp
