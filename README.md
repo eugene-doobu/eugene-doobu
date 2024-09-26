@@ -45,6 +45,8 @@ ___
 학사: [방송통신대학교](./knou.md) 컴퓨터과학: 4.4/4.5
 <br><br>
 
+[![An image of @eugenedoobu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eugenedoobu)](https://holopin.io/@eugenedoobu)
+
 ## &#x1F3E3; etc
 2021 인천전자마이스터고 게인미 VR 및 게임콘텐츠 제작 동아리 강사 - 2학기<br>
 2023 모두의연구소 Experimental Game LAB<br>
@@ -62,8 +64,6 @@ ___
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=eugene-doobu&show_icons=true&line_height=26&count_private=true&bg_color=90,2b5876,4e4376&title_color=fff&text_color=fff&icon_color=4ca1af"/>
 </a>
 <br><br>
-
-[![An image of @eugenedoobu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eugenedoobu)](https://holopin.io/@eugenedoobu)
 
 ![boid](boid.PNG)
 
