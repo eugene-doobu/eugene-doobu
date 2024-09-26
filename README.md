@@ -38,13 +38,6 @@ ___
 2022 방송통신대학교 컴퓨터과학과 졸업생 성적우수상<br>
 <br>
 
-[![Solved.ac ssundong0_0](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssundong0_0)](https://solved.ac/ssundong0_0)
-
-고졸: 인천전자마이스터고 전자제어과
-
-학사: [방송통신대학교](./knou.md) 컴퓨터과학: 4.4/4.5
-<br><br>
-
 [![An image of @eugenedoobu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eugenedoobu)](https://holopin.io/@eugenedoobu)
 
 ## &#x1F3E3; etc
@@ -52,6 +45,9 @@ ___
 2023 모두의연구소 Experimental Game LAB<br>
 2023 우아한스터디 겨울시즌 - 8 Weeks Later<br>
 2024 인천전자마이스터고 멘토링 강사 - 개발자 취업전략<br>
+<br>
+
+[![Solved.ac ssundong0_0](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssundong0_0)](https://solved.ac/ssundong0_0)
 <br>
 
 ## &#x1f4c8; GitHub Stats
