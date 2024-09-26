@@ -19,8 +19,6 @@
   <br>
 </p>
 
-[![Holopin](https://holopin.onrender.com/vinitshahdeo)](https://holopin.io/@vinitshahdeo)
-
 <h3 align="center"> 📫 How to reach me 📫 </h3>
 <p align="center">
   <a href="https://velog.io/@eugene-doobu"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@eugene-doobu"/></a>&nbsp
@@ -65,4 +63,7 @@ ___
 </a>
 <br><br>
 
+[![@eugene-doobu's Holopin board](https://holopin.io/api/user/board?user=eugene-doobu)](https://holopin.io/@eugene-doobu)
+
 ![boid](boid.PNG)
+
