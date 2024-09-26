@@ -63,7 +63,7 @@ ___
 </a>
 <br><br>
 
-[![@eugene-doobu's Holopin board](https://holopin.io/api/user/board?user=eugene-doobu)](https://holopin.io/@eugene-doobu)
+[![@eugene-doobu's Holopin board](https://holopin.io/api/user/board?user=eugenedoobu)](https://holopin.io/@eugenedoobu)
 
 ![boid](boid.PNG)
 
