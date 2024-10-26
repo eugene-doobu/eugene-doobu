@@ -25,7 +25,8 @@
   <a href="https://www.youtube.com/channel/UCsvrVhm_WRjNVOtoRrk0-hA/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCsvrVhm_WRjNVOtoRrk0-hA/"/></a>&nbsp
 </p>  
 
-actively working on [Ganshin-Impact](https://github.com/eugene-doobu/Ganshin-Impact)<br>
+~actively working on [Ganshin-Impact](https://github.com/eugene-doobu/Ganshin-Impact)<br>~
+actively working on [Ray-Tracing](https://github.com/eugene-doobu/Ray-Tracing-in-One-Weekend)<br>
   and studying computer graphics with directx-11
 ___
 
