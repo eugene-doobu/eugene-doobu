@@ -39,8 +39,6 @@ ___
 2022 방송통신대학교 컴퓨터과학과 졸업생 성적우수상<br>
 <br>
 
-[![An image of @eugenedoobu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/eugenedoobu)](https://holopin.io/@eugenedoobu)
-
 ## &#x1F3E3; etc
 2021 인천전자마이스터고 게인미 VR 및 게임콘텐츠 제작 동아리 강사 - 2학기<br>
 2023 모두의연구소 Experimental Game LAB<br>
