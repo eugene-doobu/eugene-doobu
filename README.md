@@ -47,6 +47,7 @@ ___
 <br>
 
 [![Solved.ac ssundong0_0](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssundong0_0)](https://solved.ac/ssundong0_0)
+![LeetCode Stats](https://leetcard.jacoblin.cool/eugene-doobu?theme=nord&font=Coda)
 <br>
 
 ## &#x1f4c8; GitHub Stats
