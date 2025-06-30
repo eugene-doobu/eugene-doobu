@@ -26,7 +26,7 @@
 </p>  
 
 ~actively working on [Ganshin-Impact](https://github.com/eugene-doobu/Ganshin-Impact)<br>~
-actively working on [Ray-Tracing](https://github.com/eugene-doobu/Ray-Tracing-in-One-Weekend)<br>
+actively working on 'GantellarBlade' (private)
   and studying computer graphics with directx-11
 ___
 
