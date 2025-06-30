@@ -27,7 +27,7 @@
 
 ~actively working on [Ganshin-Impact](https://github.com/eugene-doobu/Ganshin-Impact)<br>~
 actively working on 'GantellarBlade' (private)
-  and studying computer graphics with directx-11
+
 ___
 
 ## &#x1F6A9; Achieve
