@@ -13,12 +13,6 @@
   <br>
 </p>
 
-<h3 align="center">interested in..</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>&nbsp 
-  <br>
-</p>
-
 <h3 align="center"> 📫 How to reach me 📫 </h3>
 <p align="center">
   <a href="https://velog.io/@eugene-doobu"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@eugene-doobu"/></a>&nbsp
