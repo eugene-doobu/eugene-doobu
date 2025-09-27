@@ -25,7 +25,7 @@
   <a href="https://www.youtube.com/channel/UCsvrVhm_WRjNVOtoRrk0-hA/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCsvrVhm_WRjNVOtoRrk0-hA/"/></a>&nbsp
 </p>  
 
-actively working on 'GantellarBlade' (private)
+actively working on 'HYPER-MINER' (private)
 
 ___
 
@@ -36,6 +36,10 @@ ___
 2021 에듀테크쇼 초등교육전 - 에듀테크 애플리케이션상 수상(ARgong2, DNSOFT)<br>
 2022 방송통신대학교 총장배 소프트웨어 경진대회 - 은상 수상<br>
 2022 방송통신대학교 컴퓨터과학과 졸업생 성적우수상<br>
+<br>
+
+## &#x1F4DC; Certificate
+정보처리기사 - 한국산업인력공단<br>
 <br>
 
 ## &#x1F3E3; etc
