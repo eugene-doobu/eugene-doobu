@@ -37,13 +37,8 @@ ___
 <br>
 
 ## &#x1F4BC; Career
-**Planetarium** · 클라이언트 개발자 · 정규직<br>
-2024년 1월 - 2025년 5월 · 1년 5개월<br>
-Nine Chronicle's Game Client Developer - Unity<br>
-<br>
-**Com2us Corporation** · 클라이언트 개발자 · 정규직<br>
-2022년 3월 - 2023년 10월 · 1년 8개월<br>
-서울, 대한민국<br>
+**Planetarium** · 클라이언트 개발자 (2024.01 - 2025.05) · Nine Chronicle's Unity Developer<br>
+**Com2us Corporation** · 클라이언트 개발자 (2022.03 - 2023.10) · 서울<br>
 <br>
 
 ## &#x1F3E3; etc
