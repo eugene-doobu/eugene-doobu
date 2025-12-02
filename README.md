@@ -38,7 +38,7 @@ ___
 <br>
 
 ## &#x1F4BC; Career
-**Studio Vikundi** · 클라이언트 개발자 (2025.07 ~ )
+**Studio Vikundi** · 클라이언트 개발자 (2025.07 ~ )<br>
 **Planetarium** · 클라이언트 개발자 (2024.01 - 2025.05) · Nine Chronicle's Unity Developer<br>
 **Com2us Corporation** · 클라이언트 개발자 (2022.03 - 2023.10) · 서울<br>
 <br>
