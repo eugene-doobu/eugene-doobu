@@ -47,7 +47,6 @@ ___
 2023 모두의연구소 Experimental Game LAB<br>
 2023 우아한스터디 겨울시즌 - 8 Weeks Later<br>
 2024 인천전자마이스터고 멘토링 강사 - 개발자 취업전략<br>
-2025 OSSCA 2차 - Git 활용 및 PyTorch 문서 한글화<br>
 <br>
 
 [![Solved.ac ssundong0_0](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssundong0_0)](https://solved.ac/ssundong0_0)
